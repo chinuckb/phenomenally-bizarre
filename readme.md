@@ -22,4 +22,5 @@
 
 
 ## Timeline
-    
+   ### 26 October 2024
+   Initial Prediction Code Uploaded. This code (train.py) can predict the prices based on the trained HMM. Next step is to predict the state we are in and color code (Up Trend - Green, Down Trend - Red) the Predicted Price line.
